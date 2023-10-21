@@ -1,19 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Meijer, Inc
+  position: Android Developer
+  duration: Feb, 2021 &mdash; Present
+  summary: Meijer is a grocery retail chain in the Midwest region of the US. I worked on their mobile app called Meijer - Delivery & Pickup which had 1 million+ users.<ul class="resume-item-list"><li>Designed and implemented new home screen using latest architectural pattern MVI and Jetpack Compose for building UI</li><li>Integrated Okta SDK into the app for secure authentication and resolved critical bugs</li><li>Worked on Meijer's new rewards management dashboard called mperks 4.0</li><li>Built new accounts screen so customers can view and update their preferences easily</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: SafeAuto Insurance
+  position: Application Support Intern
+  duration:  May, 2020 &mdash; July, 2020
+  summary: SafeAuto Insurance was the auto insurance company based in Columbus, OH.<ul class="resume-item-list"><li>Developed SharePoint site to keep track of all new released of the application</li><li>Monitored traffic to the website using Solarwinds and AppDynamics</li><li>Recycled and restarted servers to resolve high traffic issues on the company's website</li></ul>  
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+#- company: Springfield Women & Children's Center
+  #position: Communications Coordinator
+  #duration:   Jun, 2008  &mdash; May, 2010
+  #summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
