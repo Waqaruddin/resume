@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Kotlin & Jetpack Compose
+  description: Built apps using Kotlin and Jetpack Compose, following latest architectural patterns.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Testing
+  description: Wrote unit tests using JUnit and Mockito
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: RxJava & Coroutines
+  description: Experience with RxJava and coroutines for multithreading
