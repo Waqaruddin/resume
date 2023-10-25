@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Kotlin & Jetpack Compose
-  description: Built apps using Kotlin and Jetpack Compose, following latest architectural patterns.
+- skill: Java & Kotlin
+  description: Built apps using Java and kotlin using latest architectural design patterns.
 
 # Communications strategy
-- skill: Testing
-  description: Wrote unit tests using JUnit and Mockito
+- skill: UI/UX Design
+  description: Experience with designing apps using XML and Jetpack Compose.
 
 # Digital content development and creation
-- skill: RxJava & Coroutines
-  description: Experience with RxJava and Coroutines for multithreading
+- skill: Version Control
+  description: Proficient with using github for version control, creating pull requests and doing code reviews
+
+# Digital content development and creation
+- skill: RESTful APIs
+  description: Used Retrofit for networking and coroutines and RxJava for multithreading.
